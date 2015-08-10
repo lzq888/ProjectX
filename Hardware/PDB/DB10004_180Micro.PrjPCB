@@ -157,10 +157,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PORYNWQW
 
-[GeneratedDocument1]
-DocumentPath=IDFReport_180Micro_PDB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
